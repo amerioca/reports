@@ -1,0 +1,36 @@
+"Textfield """"","Customer sales"
+
+
+"Textfield """"","Mab´s
+Nº  de contribuinte: 34143941000104"
+
+
+"Textfield """"","Av. Prado Junior, 16 Loja A
+22011040  - Rio de Janeiro"
+
+
+"Textfield """"","[ 2018-11-01 <-> 2018-11-30 ]"
+
+
+"Table ""openCashBox""","","","Vendas por Cliente","","","","","","",""
+"","","","","","","","","",""
+"","","Descrição","Quantidade","Desconto s/IVA","Desconto c/IVA","Total s/IVA
+","Total c/IVA","Gross total",""
+"","","Cliente: Novo Cliente","","","","","","",""
+"","","","","","Sales","","","",""
+"","","Coca Cola","2.00","R$ 0.00","R$ 0.00","R$ 14.00","R$ 14.00","R$ 14.00",""
+"","","Guarana","6.00","R$ 0.00","R$ 0.00","R$ 42.00","R$ 42.00","R$ 42.00",""
+"","","Camarão Paulista.","2.00","R$ 0.00","R$ 0.00","R$ 116.96","R$ 136.00","R$ 136.00",""
+"","","Guar. Arroz","2.00","R$ 0.00","R$ 0.00","R$ 22.36","R$ 26.00","R$ 26.00",""
+"","","Guar. Legumes Salteados","2.00","R$ 0.00","R$ 0.00","R$ 22.36","R$ 26.00","R$ 26.00",""
+"","","Total (Sales)","14.00","R$ 0.00","R$ 0.00","R$ 217.68","R$ 244.00","R$ 244.00",""
+"","","Total (Novo Cliente)","14.00","R$ 0.00","R$ 0.00","R$ 217.68","R$ 244.00","R$ 244.00",""
+"","","Total","14.00","R$ 0.00","R$ 0.00","R$ 217.68","R$ 244.00","R$ 244.00",""
+
+
+"Textfield ""New Text""","total[€]"
+
+
+"Textfield """"","Apuramento impresso em 2018-12-13 às 16:26:43"
+
+
